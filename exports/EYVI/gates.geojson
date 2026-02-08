@@ -1,0 +1,352 @@
+{
+  "type": "FeatureCollection",
+  "name": "EYVI_gates",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.280854,
+          54.6426665
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965510,
+        "osm_type": "node",
+        "ref": "B12",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2808985,
+          54.6426811
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965511,
+        "osm_type": "node",
+        "ref": "A16",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2807931,
+          54.6426687
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965512,
+        "osm_type": "node",
+        "ref": "A17",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2817016,
+          54.6427264
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965513,
+        "osm_type": "node",
+        "ref": "A15",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2823521,
+          54.6427911
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965514,
+        "osm_type": "node",
+        "ref": "B14",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2823895,
+          54.6428163
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965515,
+        "osm_type": "node",
+        "ref": "A14",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2824322,
+          54.6432663
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965517,
+        "osm_type": "node",
+        "ref": "A7",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2824067,
+          54.6432854
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965518,
+        "osm_type": "node",
+        "ref": "A6",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2818334,
+          54.6433958
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965519,
+        "osm_type": "node",
+        "ref": "B7",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2817746,
+          54.6433973
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965520,
+        "osm_type": "node",
+        "ref": "A7",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2811481,
+          54.6446818
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965521,
+        "osm_type": "node",
+        "ref": "A3",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2809387,
+          54.6433894
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965522,
+        "osm_type": "node",
+        "ref": "A5",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2808795,
+          54.6433869
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 3974965523,
+        "osm_type": "node",
+        "ref": "A1",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2811649,
+          54.6443695
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 13290700268,
+        "osm_type": "node",
+        "ref": "A2",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2811626,
+          54.6446429
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 13290700269,
+        "osm_type": "node",
+        "ref": "A1",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2825075,
+          54.6431869
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 13290700270,
+        "osm_type": "node",
+        "ref": "B10",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2824968,
+          54.6429184
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 13290700271,
+        "osm_type": "node",
+        "ref": "B11",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2811503,
+          54.6444084
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 13290700272,
+        "osm_type": "node",
+        "ref": "A4",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2824539,
+          54.6428811
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 13290700273,
+        "osm_type": "node",
+        "ref": "B13",
+        "aeroway": "gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2824807,
+          54.6432179
+        ]
+      },
+      "properties": {
+        "category": "gate",
+        "osm_id": 13290700274,
+        "osm_type": "node",
+        "ref": "B9",
+        "aeroway": "gate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8162 @@
+{
+  "type": "FeatureCollection",
+  "name": "OMDB_parking_stands",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.374822,
+          25.2409089
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066153952,
+        "osm_type": "node",
+        "ref": "D9",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3741059,
+          25.2413044
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066154594,
+        "osm_type": "node",
+        "ref": "D8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.384325,
+          25.2357775
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066437424,
+        "osm_type": "node",
+        "ref": "G18",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3854971,
+          25.2374976
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066441682,
+        "osm_type": "node",
+        "ref": "G21",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3850921,
+          25.2369348
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066441683,
+        "osm_type": "node",
+        "ref": "G20",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3829812,
+          25.2377838
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066442767,
+        "osm_type": "node",
+        "ref": "G14",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3823267,
+          25.2368547
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066442839,
+        "osm_type": "node",
+        "ref": "G15",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3827183,
+          25.2374296
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066443044,
+        "osm_type": "node",
+        "ref": "G14",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3839495,
+          25.2352243
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066443361,
+        "osm_type": "node",
+        "ref": "G17",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3847219,
+          25.2363525
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066443742,
+        "osm_type": "node",
+        "ref": "G19",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3824608,
+          25.238519
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066503071,
+        "osm_type": "node",
+        "ref": "G12",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.383067,
+          25.2381623
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3066503193,
+        "osm_type": "node",
+        "ref": "G13",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.380102,
+          25.238325
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3334344561,
+        "osm_type": "node",
+        "ref": "G7",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3797318,
+          25.2377463
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3334344563,
+        "osm_type": "node",
+        "ref": "G6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.389291,
+          25.2345178
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3334344564,
+        "osm_type": "node",
+        "ref": "H2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3888575,
+          25.2348975
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3334344570,
+        "osm_type": "node",
+        "ref": "H1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.393125,
+          25.2331106
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 3334344573,
+        "osm_type": "node",
+        "ref": "H3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3884771,
+          25.2358576
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972576576,
+        "osm_type": "node",
+        "ref": "G22",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4014404,
+          25.2365785
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972588503,
+        "osm_type": "node",
+        "ref": "S7",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.401864,
+          25.2372526
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972588504,
+        "osm_type": "node",
+        "ref": "S6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4023388,
+          25.2379392
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972588506,
+        "osm_type": "node",
+        "ref": "S5",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3998899,
+          25.2385239
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972588510,
+        "osm_type": "node",
+        "ref": "S3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3983772,
+          25.2369688
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972588516,
+        "osm_type": "node",
+        "ref": "S8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3977589,
+          25.2372902
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972588518,
+        "osm_type": "node",
+        "ref": "S9",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3970307,
+          25.2377645
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972588520,
+        "osm_type": "node",
+        "ref": "S10",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3964031,
+          25.2380994
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972588622,
+        "osm_type": "node",
+        "ref": "S11",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3958184,
+          25.2384681
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 4972588624,
+        "osm_type": "node",
+        "ref": "S12",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3962485,
+          25.2318836
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 9734766007,
+        "osm_type": "node",
+        "ref": "H4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3905349,
+            25.2347112
+          ],
+          [
+            55.3908188,
+            25.2347507
+          ],
+          [
+            55.3909622,
+            25.2347536
+          ],
+          [
+            55.391108,
+            25.2347271
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 87186278,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3683691,
+            25.2475461
+          ],
+          [
+            55.3681987,
+            25.2475015
+          ],
+          [
+            55.3670572,
+            25.2471766
+          ],
+          [
+            55.3660567,
+            25.2468581
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264956580,
+        "osm_type": "way",
+        "ref": "F26L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3662818,
+            25.2463797
+          ],
+          [
+            55.3670687,
+            25.2463492
+          ],
+          [
+            55.3676112,
+            25.2462632
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264957950,
+        "osm_type": "way",
+        "ref": "F27",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3659251,
+            25.2460109
+          ],
+          [
+            55.3665451,
+            25.2455551
+          ],
+          [
+            55.3669094,
+            25.2452462
+          ],
+          [
+            55.3675997,
+            25.2446839
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264957956,
+        "osm_type": "way",
+        "ref": "B27",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3655774,
+            25.2456011
+          ],
+          [
+            55.3655237,
+            25.2448882
+          ],
+          [
+            55.3654613,
+            25.2444555
+          ],
+          [
+            55.3653747,
+            25.2437012
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264958052,
+        "osm_type": "way",
+        "ref": "B26L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3650561,
+            25.245778
+          ],
+          [
+            55.3646689,
+            25.2451889
+          ],
+          [
+            55.3644158,
+            25.2448039
+          ],
+          [
+            55.3639839,
+            25.2441917
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264958086,
+        "osm_type": "way",
+        "ref": "B25",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3654772,
+            25.2470736
+          ],
+          [
+            55.3659112,
+            25.2477308
+          ],
+          [
+            55.3661742,
+            25.248129
+          ],
+          [
+            55.3666594,
+            25.2489057
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264958713,
+        "osm_type": "way",
+        "ref": "F25",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3660668,
+            25.2492022
+          ],
+          [
+            55.3655507,
+            25.248463
+          ],
+          [
+            55.3652779,
+            25.2480485
+          ],
+          [
+            55.3648495,
+            25.247423
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264958921,
+        "osm_type": "way",
+        "ref": "F24",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.364238,
+            25.2477626
+          ],
+          [
+            55.3646631,
+            25.2483913
+          ],
+          [
+            55.3649365,
+            25.2488036
+          ],
+          [
+            55.3654534,
+            25.2495484
+          ],
+          [
+            55.3655355,
+            25.2496877
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264959097,
+        "osm_type": "way",
+        "ref": "F23",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3635621,
+            25.2481168
+          ],
+          [
+            55.3639836,
+            25.2487646
+          ],
+          [
+            55.3642627,
+            25.2491773
+          ],
+          [
+            55.3643146,
+            25.2492773
+          ],
+          [
+            55.3646455,
+            25.2497665
+          ],
+          [
+            55.3647744,
+            25.2499493
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264959098,
+        "osm_type": "way",
+        "ref": "F22",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3628084,
+            25.2485339
+          ],
+          [
+            55.3632314,
+            25.2491858
+          ],
+          [
+            55.3634979,
+            25.2496028
+          ],
+          [
+            55.3636174,
+            25.2497891
+          ],
+          [
+            55.3638083,
+            25.2500509
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264959144,
+        "osm_type": "way",
+        "ref": "F21",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3632449,
+            25.2507826
+          ],
+          [
+            55.3631956,
+            25.2506997
+          ],
+          [
+            55.3628021,
+            25.2500384
+          ],
+          [
+            55.3627793,
+            25.2500001
+          ],
+          [
+            55.3624937,
+            25.2495928
+          ],
+          [
+            55.3620359,
+            25.2489391
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264959147,
+        "osm_type": "way",
+        "ref": "F20",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3625132,
+            25.2511892
+          ],
+          [
+            55.3620003,
+            25.2504351
+          ],
+          [
+            55.3617187,
+            25.2500205
+          ],
+          [
+            55.3612822,
+            25.2493588
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264959243,
+        "osm_type": "way",
+        "ref": "F19",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3616066,
+            25.2516855
+          ],
+          [
+            55.3610929,
+            25.2509362
+          ],
+          [
+            55.3608082,
+            25.2505249
+          ],
+          [
+            55.3603489,
+            25.2498614
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264959326,
+        "osm_type": "way",
+        "ref": "F18",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3608966,
+            25.2520731
+          ],
+          [
+            55.3603895,
+            25.2513271
+          ],
+          [
+            55.3601182,
+            25.2509096
+          ],
+          [
+            55.359689,
+            25.2502491
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264959371,
+        "osm_type": "way",
+        "ref": "F17",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3644445,
+            25.246091
+          ],
+          [
+            55.3640601,
+            25.245526
+          ],
+          [
+            55.3638012,
+            25.2451454
+          ],
+          [
+            55.3633772,
+            25.2445307
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962087,
+        "osm_type": "way",
+        "ref": "B24",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3638276,
+            25.2464403
+          ],
+          [
+            55.3634422,
+            25.2458641
+          ],
+          [
+            55.3631891,
+            25.2454856
+          ],
+          [
+            55.3631054,
+            25.2453729
+          ],
+          [
+            55.3628608,
+            25.244999
+          ],
+          [
+            55.362777,
+            25.244866
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962131,
+        "osm_type": "way",
+        "ref": "B23",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3632107,
+            25.2467727
+          ],
+          [
+            55.3628286,
+            25.2462
+          ],
+          [
+            55.3625784,
+            25.2458251
+          ],
+          [
+            55.3624491,
+            25.2456371
+          ],
+          [
+            55.3622914,
+            25.2454064
+          ],
+          [
+            55.3621618,
+            25.2452097
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962196,
+        "osm_type": "way",
+        "ref": "B22",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3624275,
+            25.2471996
+          ],
+          [
+            55.3620493,
+            25.2466268
+          ],
+          [
+            55.3618014,
+            25.2462577
+          ],
+          [
+            55.3613915,
+            25.2456401
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962275,
+        "osm_type": "way",
+        "ref": "B21R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3617194,
+            25.2476024
+          ],
+          [
+            55.3613335,
+            25.2470293
+          ],
+          [
+            55.3610843,
+            25.2466594
+          ],
+          [
+            55.3606669,
+            25.2460474
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962276,
+        "osm_type": "way",
+        "ref": "B20",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3602909,
+            25.2483803
+          ],
+          [
+            55.3599083,
+            25.2478197
+          ],
+          [
+            55.3596582,
+            25.2474534
+          ],
+          [
+            55.3592498,
+            25.2468403
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962452,
+        "osm_type": "way",
+        "ref": "B18L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3597104,
+            25.2487498
+          ],
+          [
+            55.3593065,
+            25.2481486
+          ],
+          [
+            55.3590624,
+            25.2477753
+          ],
+          [
+            55.3586666,
+            25.2471644
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962605,
+        "osm_type": "way",
+        "ref": "B17",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3590854,
+            25.2490628
+          ],
+          [
+            55.3587314,
+            25.2485167
+          ],
+          [
+            55.3584691,
+            25.2481089
+          ],
+          [
+            55.3580705,
+            25.2475598
+          ],
+          [
+            55.3580365,
+            25.2475142
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962609,
+        "osm_type": "way",
+        "ref": "B16",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3578516,
+            25.2497057
+          ],
+          [
+            55.3574949,
+            25.2491712
+          ],
+          [
+            55.3572374,
+            25.2487853
+          ],
+          [
+            55.3572136,
+            25.2487524
+          ],
+          [
+            55.3569275,
+            25.2483726
+          ],
+          [
+            55.3568037,
+            25.2482099
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962672,
+        "osm_type": "way",
+        "ref": "B14",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3584953,
+            25.2493879
+          ],
+          [
+            55.3580907,
+            25.2488132
+          ],
+          [
+            55.3578224,
+            25.2484314
+          ],
+          [
+            55.3577441,
+            25.2483
+          ],
+          [
+            55.3576421,
+            25.2481543
+          ],
+          [
+            55.357443,
+            25.2478458
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962673,
+        "osm_type": "way",
+        "ref": "B15",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3572669,
+            25.2501326
+          ],
+          [
+            55.3568868,
+            25.2495622
+          ],
+          [
+            55.3566515,
+            25.2492091
+          ],
+          [
+            55.3562411,
+            25.2486002
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264962992,
+        "osm_type": "way",
+        "ref": "B12",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3582439,
+            25.253528
+          ],
+          [
+            55.3577774,
+            25.252774
+          ],
+          [
+            55.3574854,
+            25.2523469
+          ],
+          [
+            55.3570148,
+            25.2516586
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264966699,
+        "osm_type": "way",
+        "ref": "F13",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3575607,
+            25.253906
+          ],
+          [
+            55.3570477,
+            25.2531764
+          ],
+          [
+            55.3567572,
+            25.2527501
+          ],
+          [
+            55.3562933,
+            25.2520588
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967239,
+        "osm_type": "way",
+        "ref": "F12",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3567758,
+            25.2543404
+          ],
+          [
+            55.3562782,
+            25.2536016
+          ],
+          [
+            55.3559801,
+            25.2531797
+          ],
+          [
+            55.355571,
+            25.252553
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967295,
+        "osm_type": "way",
+        "ref": "F10",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3560296,
+            25.2547418
+          ],
+          [
+            55.355241,
+            25.2535884
+          ],
+          [
+            55.3547981,
+            25.2529183
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967314,
+        "osm_type": "way",
+        "ref": "F9",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3553076,
+            25.2551622
+          ],
+          [
+            55.3547841,
+            25.2544145
+          ],
+          [
+            55.3545087,
+            25.2539932
+          ],
+          [
+            55.3540781,
+            25.253334
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967330,
+        "osm_type": "way",
+        "ref": "F8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3545642,
+            25.2555757
+          ],
+          [
+            55.3540366,
+            25.2548348
+          ],
+          [
+            55.3537559,
+            25.2544094
+          ],
+          [
+            55.3533173,
+            25.2537455
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967360,
+        "osm_type": "way",
+        "ref": "F7",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3538224,
+            25.2559893
+          ],
+          [
+            55.353308,
+            25.255239
+          ],
+          [
+            55.3530301,
+            25.2548107
+          ],
+          [
+            55.3525409,
+            25.2540844
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967375,
+        "osm_type": "way",
+        "ref": "F6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3530611,
+            25.2564151
+          ],
+          [
+            55.3525473,
+            25.2556586
+          ],
+          [
+            55.3522745,
+            25.2552364
+          ],
+          [
+            55.3518382,
+            25.2546133
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967383,
+        "osm_type": "way",
+        "ref": "F5",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3524371,
+            25.256764
+          ],
+          [
+            55.3519378,
+            25.2559948
+          ],
+          [
+            55.3516417,
+            25.2555864
+          ],
+          [
+            55.3512025,
+            25.2549383
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967409,
+        "osm_type": "way",
+        "ref": "F4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3515415,
+            25.2572696
+          ],
+          [
+            55.3515266,
+            25.2572368
+          ],
+          [
+            55.3511837,
+            25.2565354
+          ],
+          [
+            55.3511414,
+            25.2564407
+          ],
+          [
+            55.3509257,
+            25.2559825
+          ],
+          [
+            55.3506124,
+            25.2552925
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967413,
+        "osm_type": "way",
+        "ref": "F3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.350257,
+            25.2546375
+          ],
+          [
+            55.3497695,
+            25.2549334
+          ],
+          [
+            55.3493759,
+            25.2551493
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967455,
+        "osm_type": "way",
+        "ref": "F2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3494951,
+            25.2525298
+          ],
+          [
+            55.3498928,
+            25.2531437
+          ],
+          [
+            55.3504273,
+            25.2539728
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967467,
+        "osm_type": "way",
+        "ref": "B1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3499268,
+            25.252288
+          ],
+          [
+            55.3503465,
+            25.2528926
+          ],
+          [
+            55.350886,
+            25.2536987
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967498,
+        "osm_type": "way",
+        "ref": "B2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3505179,
+            25.2519561
+          ],
+          [
+            55.350928,
+            25.2525758
+          ],
+          [
+            55.3514562,
+            25.2533901
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264967633,
+        "osm_type": "way",
+        "ref": "B3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3520978,
+            25.2530891
+          ],
+          [
+            55.3515302,
+            25.2522238
+          ],
+          [
+            55.351139,
+            25.2516165
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264968055,
+        "osm_type": "way",
+        "ref": "B4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3534126,
+            25.2523305
+          ],
+          [
+            55.3530385,
+            25.2517627
+          ],
+          [
+            55.3527979,
+            25.2513974
+          ],
+          [
+            55.3527344,
+            25.2512778
+          ],
+          [
+            55.3526273,
+            25.2511372
+          ],
+          [
+            55.3523826,
+            25.2507753
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264968278,
+        "osm_type": "way",
+        "ref": "B6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3541207,
+            25.2518793
+          ],
+          [
+            55.3537661,
+            25.2513433
+          ],
+          [
+            55.3535242,
+            25.2509776
+          ],
+          [
+            55.3531383,
+            25.2504005
+          ],
+          [
+            55.3530973,
+            25.2503824
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264968292,
+        "osm_type": "way",
+        "ref": "B8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3565476,
+            25.2506092
+          ],
+          [
+            55.3561505,
+            25.2500109
+          ],
+          [
+            55.355922,
+            25.2496666
+          ],
+          [
+            55.3555001,
+            25.2490358
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264968539,
+        "osm_type": "way",
+        "ref": "B11",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3398693,
+            25.2604515
+          ],
+          [
+            55.3394661,
+            25.2606718
+          ],
+          [
+            55.3388645,
+            25.2610002
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970128,
+        "osm_type": "way",
+        "ref": "C47",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3405967,
+            25.2616069
+          ],
+          [
+            55.3402284,
+            25.2618102
+          ],
+          [
+            55.3396074,
+            25.2621524
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970158,
+        "osm_type": "way",
+        "ref": "C45",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3407581,
+            25.2652185
+          ],
+          [
+            55.340381,
+            25.2646578
+          ],
+          [
+            55.3401251,
+            25.2642774
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970270,
+        "osm_type": "way",
+        "ref": "C32",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3413804,
+            25.2648934
+          ],
+          [
+            55.3410008,
+            25.2643157
+          ],
+          [
+            55.3407474,
+            25.2639307
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970326,
+        "osm_type": "way",
+        "ref": "C33",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3413317,
+            25.2636051
+          ],
+          [
+            55.3415861,
+            25.2639926
+          ],
+          [
+            55.341943,
+            25.264537
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970492,
+        "osm_type": "way",
+        "ref": "C34",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3416261,
+            25.2627657
+          ],
+          [
+            55.3422046,
+            25.2636513
+          ],
+          [
+            55.3425695,
+            25.2642107
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970508,
+        "osm_type": "way",
+        "ref": "C35",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.342205,
+            25.2623804
+          ],
+          [
+            55.3428352,
+            25.2633032
+          ],
+          [
+            55.3432257,
+            25.2638747
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970517,
+        "osm_type": "way",
+        "ref": "C36",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3437502,
+            25.2615297
+          ],
+          [
+            55.3440858,
+            25.2620373
+          ],
+          [
+            55.3444817,
+            25.2626363
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970617,
+        "osm_type": "way",
+        "ref": "C38",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3443691,
+            25.2611963
+          ],
+          [
+            55.3447064,
+            25.2616939
+          ],
+          [
+            55.3451193,
+            25.2623029
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970623,
+        "osm_type": "way",
+        "ref": "C39",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3449933,
+            25.2608538
+          ],
+          [
+            55.3453192,
+            25.2613548
+          ],
+          [
+            55.3457043,
+            25.2619466
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970636,
+        "osm_type": "way",
+        "ref": "C40",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3395485,
+            25.2633069
+          ],
+          [
+            55.3399505,
+            25.2638625
+          ],
+          [
+            55.3401721,
+            25.2642489
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970708,
+        "osm_type": "way",
+        "ref": "C42",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3389181,
+            25.2636868
+          ],
+          [
+            55.3392891,
+            25.2642363
+          ],
+          [
+            55.339526,
+            25.2646115
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264970721,
+        "osm_type": "way",
+        "ref": "C41",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3410961,
+            25.265461
+          ],
+          [
+            55.341507,
+            25.2660671
+          ],
+          [
+            55.3417947,
+            25.2664915
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972201,
+        "osm_type": "way",
+        "ref": "C24",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3418471,
+            25.2650438
+          ],
+          [
+            55.342256,
+            25.2656545
+          ],
+          [
+            55.3425391,
+            25.2660774
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972217,
+        "osm_type": "way",
+        "ref": "C25",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3432848,
+            25.2656626
+          ],
+          [
+            55.3430051,
+            25.2652419
+          ],
+          [
+            55.3426008,
+            25.2646339
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972231,
+        "osm_type": "way",
+        "ref": "C26",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.34403,
+            25.265248
+          ],
+          [
+            55.3437561,
+            25.2648282
+          ],
+          [
+            55.3433491,
+            25.2642046
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972237,
+        "osm_type": "way",
+        "ref": "C27",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3456337,
+            25.2637906
+          ],
+          [
+            55.3453298,
+            25.2633296
+          ],
+          [
+            55.344953,
+            25.2627589
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972251,
+        "osm_type": "way",
+        "ref": "C29",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3462432,
+            25.2634528
+          ],
+          [
+            55.3459413,
+            25.2629898
+          ],
+          [
+            55.3455752,
+            25.2624289
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972259,
+        "osm_type": "way",
+        "ref": "C30",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3421019,
+            25.2674622
+          ],
+          [
+            55.3418281,
+            25.2670672
+          ],
+          [
+            55.3415494,
+            25.266628
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972353,
+        "osm_type": "way",
+        "ref": "C18",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3424693,
+            25.267256
+          ],
+          [
+            55.3422039,
+            25.2668587
+          ],
+          [
+            55.3419141,
+            25.2664251
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972428,
+        "osm_type": "way",
+        "ref": "C19",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3428341,
+            25.2670474
+          ],
+          [
+            55.3425737,
+            25.2666535
+          ],
+          [
+            55.3422856,
+            25.2662184
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972430,
+        "osm_type": "way",
+        "ref": "C20",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.343207,
+            25.2668461
+          ],
+          [
+            55.3429456,
+            25.2664472
+          ],
+          [
+            55.342659,
+            25.2660107
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972435,
+        "osm_type": "way",
+        "ref": "C21",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3435825,
+            25.2666326
+          ],
+          [
+            55.343313,
+            25.2662434
+          ],
+          [
+            55.3430151,
+            25.2658126
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972447,
+        "osm_type": "way",
+        "ref": "C22",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3439419,
+            25.266424
+          ],
+          [
+            55.343681,
+            25.2660392
+          ],
+          [
+            55.343387,
+            25.2656057
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264972449,
+        "osm_type": "way",
+        "ref": "C23",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3785689,
+            25.253495
+          ],
+          [
+            55.3781324,
+            25.2528489
+          ],
+          [
+            55.3779153,
+            25.2525366
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264974939,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3794889,
+            25.2529613
+          ],
+          [
+            55.3790532,
+            25.2523309
+          ],
+          [
+            55.3788874,
+            25.2520817
+          ],
+          [
+            55.3788429,
+            25.2520148
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264974940,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.380417,
+            25.2524446
+          ],
+          [
+            55.3799342,
+            25.2517289
+          ],
+          [
+            55.3798421,
+            25.2516416
+          ],
+          [
+            55.3797455,
+            25.2515907
+          ],
+          [
+            55.3796231,
+            25.2515519
+          ],
+          [
+            55.3794997,
+            25.251547
+          ],
+          [
+            55.379378,
+            25.2515663
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264975054,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3813585,
+            25.25194
+          ],
+          [
+            55.380873,
+            25.2512268
+          ],
+          [
+            55.3807577,
+            25.2511128
+          ],
+          [
+            55.3806602,
+            25.2510643
+          ],
+          [
+            55.3805431,
+            25.2510351
+          ],
+          [
+            55.3804197,
+            25.2510279
+          ],
+          [
+            55.3802823,
+            25.2510624
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264975110,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3822731,
+            25.2514136
+          ],
+          [
+            55.3817421,
+            25.2507149
+          ],
+          [
+            55.3816321,
+            25.2506179
+          ],
+          [
+            55.3815034,
+            25.2505669
+          ],
+          [
+            55.3813988,
+            25.2505402
+          ],
+          [
+            55.3813156,
+            25.2505451
+          ],
+          [
+            55.3811554,
+            25.2505751
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264975130,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.340971,
+            25.2621718
+          ],
+          [
+            55.3406009,
+            25.2623665
+          ],
+          [
+            55.3399773,
+            25.2626959
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264975725,
+        "osm_type": "way",
+        "ref": "C44",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3413415,
+            25.2627309
+          ],
+          [
+            55.3409768,
+            25.2629279
+          ],
+          [
+            55.3403475,
+            25.2632684
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264975740,
+        "osm_type": "way",
+        "ref": "C43",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3688121,
+            25.2483225
+          ],
+          [
+            55.3686712,
+            25.2482566
+          ],
+          [
+            55.3677285,
+            25.2477337
+          ],
+          [
+            55.3669145,
+            25.2473217
+          ],
+          [
+            55.3661005,
+            25.2468916
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 264976268,
+        "osm_type": "way",
+        "ref": "F26R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3509878,
+            25.2672962
+          ],
+          [
+            55.3516365,
+            25.2682497
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 265910820,
+        "osm_type": "way",
+        "ref": "E1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3515996,
+            25.2669595
+          ],
+          [
+            55.3522387,
+            25.2679148
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 268208116,
+        "osm_type": "way",
+        "ref": "E2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3522193,
+            25.2666185
+          ],
+          [
+            55.3528647,
+            25.2675942
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 268231332,
+        "osm_type": "way",
+        "ref": "E3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3688191,
+            25.2442496
+          ],
+          [
+            55.3679332,
+            25.2440862
+          ],
+          [
+            55.3671693,
+            25.243916
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302036722,
+        "osm_type": "way",
+        "ref": "D1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3693087,
+            25.244844
+          ],
+          [
+            55.3686539,
+            25.2452157
+          ],
+          [
+            55.3681301,
+            25.2455008
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359172,
+        "osm_type": "way",
+        "ref": "A1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.369692,
+            25.2453685
+          ],
+          [
+            55.3694484,
+            25.246303
+          ],
+          [
+            55.3692832,
+            25.2469206
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359254,
+        "osm_type": "way",
+        "ref": "A2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3702737,
+            25.2450078
+          ],
+          [
+            55.3707252,
+            25.2456673
+          ],
+          [
+            55.371028,
+            25.246104
+          ],
+          [
+            55.3714994,
+            25.2468642
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359257,
+        "osm_type": "way",
+        "ref": "A3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3723535,
+            25.2461669
+          ],
+          [
+            55.3719708,
+            25.2455804
+          ],
+          [
+            55.3716722,
+            25.2451434
+          ],
+          [
+            55.3712091,
+            25.2444656
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359277,
+        "osm_type": "way",
+        "ref": "A4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3729711,
+            25.2455433
+          ],
+          [
+            55.3728739,
+            25.2453984
+          ],
+          [
+            55.3727179,
+            25.2451659
+          ],
+          [
+            55.3724238,
+            25.2447276
+          ],
+          [
+            55.3719762,
+            25.2440604
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359278,
+        "osm_type": "way",
+        "ref": "A5",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3734703,
+            25.2447485
+          ],
+          [
+            55.3731754,
+            25.2443118
+          ],
+          [
+            55.3727272,
+            25.243648
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359292,
+        "osm_type": "way",
+        "ref": "A6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3734809,
+            25.2432186
+          ],
+          [
+            55.3739478,
+            25.2438845
+          ],
+          [
+            55.3742463,
+            25.2443102
+          ],
+          [
+            55.3742853,
+            25.2443691
+          ],
+          [
+            55.374712,
+            25.2450138
+          ],
+          [
+            55.374752,
+            25.2450743
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359299,
+        "osm_type": "way",
+        "ref": "A7",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3742346,
+            25.2428085
+          ],
+          [
+            55.3746822,
+            25.2434782
+          ],
+          [
+            55.3749735,
+            25.2439141
+          ],
+          [
+            55.3752126,
+            25.244256
+          ],
+          [
+            55.3752465,
+            25.2443043
+          ],
+          [
+            55.3754954,
+            25.2446602
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359303,
+        "osm_type": "way",
+        "ref": "A8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3749964,
+            25.2424058
+          ],
+          [
+            55.3754359,
+            25.2430613
+          ],
+          [
+            55.3757271,
+            25.2434958
+          ],
+          [
+            55.3757536,
+            25.2435358
+          ],
+          [
+            55.3761969,
+            25.2442041
+          ],
+          [
+            55.3762286,
+            25.2442519
+          ],
+          [
+            55.3762722,
+            25.2443275
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359305,
+        "osm_type": "way",
+        "ref": "A9",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3755838,
+            25.2420249
+          ],
+          [
+            55.3766489,
+            25.2424082
+          ],
+          [
+            55.3772359,
+            25.2426266
+          ],
+          [
+            55.3772812,
+            25.2426394
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359308,
+        "osm_type": "way",
+        "ref": "A10",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3753987,
+            25.2414839
+          ],
+          [
+            55.3760442,
+            25.2411262
+          ],
+          [
+            55.3765025,
+            25.2408723
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359310,
+        "osm_type": "way",
+        "ref": "D10",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.374822,
+            25.2409089
+          ],
+          [
+            55.3749288,
+            25.240207
+          ],
+          [
+            55.3749517,
+            25.2396818
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359339,
+        "osm_type": "way",
+        "ref": "D9",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3741059,
+            25.2413044
+          ],
+          [
+            55.3737482,
+            25.2407534
+          ],
+          [
+            55.373441,
+            25.2402797
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359340,
+        "osm_type": "way",
+        "ref": "D8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3733683,
+            25.2417411
+          ],
+          [
+            55.3729897,
+            25.2411741
+          ],
+          [
+            55.3726753,
+            25.240703
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359341,
+        "osm_type": "way",
+        "ref": "D7",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3726146,
+            25.2421753
+          ],
+          [
+            55.3722351,
+            25.2415927
+          ],
+          [
+            55.3719258,
+            25.2411173
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359361,
+        "osm_type": "way",
+        "ref": "D6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3718635,
+            25.2425902
+          ],
+          [
+            55.37148,
+            25.2420115
+          ],
+          [
+            55.3711659,
+            25.2415373
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359363,
+        "osm_type": "way",
+        "ref": "D5",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3711098,
+            25.2429978
+          ],
+          [
+            55.3707309,
+            25.242427
+          ],
+          [
+            55.370416,
+            25.2419524
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359364,
+        "osm_type": "way",
+        "ref": "D4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3701791,
+            25.2435412
+          ],
+          [
+            55.3697854,
+            25.2429515
+          ],
+          [
+            55.3694661,
+            25.2424733
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359365,
+        "osm_type": "way",
+        "ref": "D3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3694415,
+            25.2439512
+          ],
+          [
+            55.3690488,
+            25.2433601
+          ],
+          [
+            55.3687219,
+            25.2428814
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302359371,
+        "osm_type": "way",
+        "ref": "D2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3833404,
+            25.2362965
+          ],
+          [
+            55.3829467,
+            25.2365133
+          ],
+          [
+            55.3823267,
+            25.2368547
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302385915,
+        "osm_type": "way",
+        "ref": "G15",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3827183,
+            25.2374296
+          ],
+          [
+            55.3833245,
+            25.2370874
+          ],
+          [
+            55.3837244,
+            25.2368616
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302385993,
+        "osm_type": "way",
+        "ref": "G14",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3843128,
+            25.2377278
+          ],
+          [
+            55.383767,
+            25.2377508
+          ],
+          [
+            55.3829812,
+            25.2377838
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302386008,
+        "osm_type": "way",
+        "ref": "G14",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3845319,
+            25.2380503
+          ],
+          [
+            55.3848779,
+            25.2378522
+          ],
+          [
+            55.3854971,
+            25.2374976
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302386018,
+        "osm_type": "way",
+        "ref": "G21",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3841266,
+            25.2374537
+          ],
+          [
+            55.3844863,
+            25.2372604
+          ],
+          [
+            55.3850921,
+            25.2369348
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302386090,
+        "osm_type": "way",
+        "ref": "G20",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3837371,
+            25.2368804
+          ],
+          [
+            55.3841046,
+            25.2366834
+          ],
+          [
+            55.3847219,
+            25.2363525
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302386098,
+        "osm_type": "way",
+        "ref": "G19",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3833404,
+            25.2362965
+          ],
+          [
+            55.3837172,
+            25.2360979
+          ],
+          [
+            55.384325,
+            25.2357775
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302386099,
+        "osm_type": "way",
+        "ref": "G18",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3829823,
+            25.2357693
+          ],
+          [
+            55.3833593,
+            25.2355569
+          ],
+          [
+            55.3839495,
+            25.2352243
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302386111,
+        "osm_type": "way",
+        "ref": "G17",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3528307,
+            25.266282
+          ],
+          [
+            55.3531383,
+            25.2667239
+          ],
+          [
+            55.3534212,
+            25.2671303
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387023,
+        "osm_type": "way",
+        "ref": "E4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3532071,
+            25.2660748
+          ],
+          [
+            55.3535118,
+            25.266517
+          ],
+          [
+            55.3537837,
+            25.2669114
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387061,
+        "osm_type": "way",
+        "ref": "E5",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3537286,
+            25.2657878
+          ],
+          [
+            55.3540334,
+            25.2662279
+          ],
+          [
+            55.3542805,
+            25.2665839
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387102,
+        "osm_type": "way",
+        "ref": "E6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3541117,
+            25.265577
+          ],
+          [
+            55.3544174,
+            25.2660152
+          ],
+          [
+            55.3546709,
+            25.2663772
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387131,
+        "osm_type": "way",
+        "ref": "E7L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3545068,
+            25.2653568
+          ],
+          [
+            55.3548049,
+            25.2658005
+          ],
+          [
+            55.3550464,
+            25.2661602
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387204,
+        "osm_type": "way",
+        "ref": "E7R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3738036,
+            25.256949
+          ],
+          [
+            55.3744856,
+            25.2565688
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387806,
+        "osm_type": "way",
+        "ref": "Q1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.374037,
+            25.2572959
+          ],
+          [
+            55.3747231,
+            25.2569221
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387807,
+        "osm_type": "way",
+        "ref": "Q2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.374273,
+            25.2576404
+          ],
+          [
+            55.3749513,
+            25.2572616
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387828,
+        "osm_type": "way",
+        "ref": "Q3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.374509,
+            25.2579897
+          ],
+          [
+            55.3751841,
+            25.2576078
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387843,
+        "osm_type": "way",
+        "ref": "Q4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.374728,
+            25.2583552
+          ],
+          [
+            55.3754248,
+            25.2579658
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387845,
+        "osm_type": "way",
+        "ref": "Q5",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3761146,
+            25.2576148
+          ],
+          [
+            55.375441,
+            25.25799
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387895,
+        "osm_type": "way",
+        "ref": "Q6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.375877,
+            25.2572644
+          ],
+          [
+            55.3752078,
+            25.257643
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387905,
+        "osm_type": "way",
+        "ref": "Q7",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3756463,
+            25.2569199
+          ],
+          [
+            55.3749726,
+            25.2572932
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387920,
+        "osm_type": "way",
+        "ref": "Q8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3754076,
+            25.2565779
+          ],
+          [
+            55.3747394,
+            25.2569463
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387953,
+        "osm_type": "way",
+        "ref": "Q9",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3751849,
+            25.2562237
+          ],
+          [
+            55.3745068,
+            25.2566004
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387975,
+        "osm_type": "way",
+        "ref": "Q10",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3749543,
+            25.2558744
+          ],
+          [
+            55.3742686,
+            25.256246
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302387980,
+        "osm_type": "way",
+        "ref": "Q11",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3727777,
+            25.2552385
+          ],
+          [
+            55.3734166,
+            25.2561801
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302389719,
+        "osm_type": "way",
+        "ref": "E44",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3729708,
+            25.2551317
+          ],
+          [
+            55.3735453,
+            25.255986
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302389741,
+        "osm_type": "way",
+        "ref": "E44R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3725963,
+            25.2553387
+          ],
+          [
+            55.3731591,
+            25.2561898
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302389745,
+        "osm_type": "way",
+        "ref": "E44L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3741546,
+            25.2544765
+          ],
+          [
+            55.3747925,
+            25.2554233
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302389779,
+        "osm_type": "way",
+        "ref": "E45",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3739636,
+            25.2545825
+          ],
+          [
+            55.3745458,
+            25.25545
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302389831,
+        "osm_type": "way",
+        "ref": "E45L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3743501,
+            25.2543679
+          ],
+          [
+            55.3749213,
+            25.255239
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302389836,
+        "osm_type": "way",
+        "ref": "E45R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3836841,
+            25.2390708
+          ],
+          [
+            55.3833915,
+            25.2386403
+          ],
+          [
+            55.383067,
+            25.2381623
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302391852,
+        "osm_type": "way",
+        "ref": "G13",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3830577,
+            25.2394303
+          ],
+          [
+            55.3827666,
+            25.2389852
+          ],
+          [
+            55.3824608,
+            25.238519
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302391874,
+        "osm_type": "way",
+        "ref": "G12",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3824464,
+            25.2397581
+          ],
+          [
+            55.3821673,
+            25.239316
+          ],
+          [
+            55.3818122,
+            25.2387561
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302391883,
+        "osm_type": "way",
+        "ref": "G11",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3818274,
+            25.2400929
+          ],
+          [
+            55.3815404,
+            25.239662
+          ],
+          [
+            55.3812298,
+            25.2391959
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302391886,
+        "osm_type": "way",
+        "ref": "G10",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3812531,
+            25.2404499
+          ],
+          [
+            55.3809377,
+            25.2399946
+          ],
+          [
+            55.3806237,
+            25.2395404
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302391910,
+        "osm_type": "way",
+        "ref": "G9",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3786018,
+            25.2419606
+          ],
+          [
+            55.3782659,
+            25.2414451
+          ],
+          [
+            55.3779752,
+            25.2409991
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302392925,
+        "osm_type": "way",
+        "ref": "G1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3791997,
+            25.2416265
+          ],
+          [
+            55.378879,
+            25.2411191
+          ],
+          [
+            55.3785801,
+            25.2406463
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302393001,
+        "osm_type": "way",
+        "ref": "G2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3797863,
+            25.2413007
+          ],
+          [
+            55.3794706,
+            25.2408046
+          ],
+          [
+            55.3791836,
+            25.2403537
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302393024,
+        "osm_type": "way",
+        "ref": "G3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3755787,
+            25.2536834
+          ],
+          [
+            55.3762328,
+            25.2546423
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 302539444,
+        "osm_type": "way",
+        "ref": "E43",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.379473,
+            25.2394317
+          ],
+          [
+            55.3790809,
+            25.2396359
+          ],
+          [
+            55.3784307,
+            25.2399744
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771211,
+        "osm_type": "way",
+        "ref": "G4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3790724,
+            25.2388417
+          ],
+          [
+            55.3786647,
+            25.239065
+          ],
+          [
+            55.3780507,
+            25.2394013
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771212,
+        "osm_type": "way",
+        "ref": "G5",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.379473,
+            25.2394317
+          ],
+          [
+            55.3798512,
+            25.2392257
+          ],
+          [
+            55.3804937,
+            25.2388756
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771213,
+        "osm_type": "way",
+        "ref": "G8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3790972,
+            25.2388783
+          ],
+          [
+            55.3794807,
+            25.2386671
+          ],
+          [
+            55.380102,
+            25.238325
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771214,
+        "osm_type": "way",
+        "ref": "G7",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3787251,
+            25.2383288
+          ],
+          [
+            55.3791094,
+            25.2381065
+          ],
+          [
+            55.3797318,
+            25.2377463
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771215,
+        "osm_type": "way",
+        "ref": "G6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3904262,
+            25.234701
+          ],
+          [
+            55.389291,
+            25.2345178
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771216,
+        "osm_type": "way",
+        "ref": "H2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3900572,
+            25.2353116
+          ],
+          [
+            55.3896154,
+            25.2355567
+          ],
+          [
+            55.3895211,
+            25.2356073
+          ],
+          [
+            55.3894184,
+            25.2355693
+          ],
+          [
+            55.3893017,
+            25.2354932
+          ],
+          [
+            55.3892269,
+            25.2353707
+          ],
+          [
+            55.3892143,
+            25.2351842
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771217,
+        "osm_type": "way",
+        "ref": "H1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3899807,
+            25.235889
+          ],
+          [
+            55.3896154,
+            25.2355567
+          ],
+          [
+            55.3892143,
+            25.2351842
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771218,
+        "osm_type": "way",
+        "ref": "H1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3892143,
+            25.2351842
+          ],
+          [
+            55.3888575,
+            25.2348975
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771219,
+        "osm_type": "way",
+        "ref": "H1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3944698,
+            25.2330264
+          ],
+          [
+            55.3944317,
+            25.2329152
+          ],
+          [
+            55.3943755,
+            25.2328145
+          ],
+          [
+            55.3942931,
+            25.2327369
+          ],
+          [
+            55.3941923,
+            25.232685
+          ],
+          [
+            55.3940358,
+            25.232659
+          ],
+          [
+            55.3939034,
+            25.2326851
+          ],
+          [
+            55.3937946,
+            25.2327336
+          ],
+          [
+            55.393125,
+            25.2331106
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771220,
+        "osm_type": "way",
+        "ref": "H1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3958102,
+            25.2321439
+          ],
+          [
+            55.3962485,
+            25.2318836
+          ],
+          [
+            55.3965943,
+            25.2316782
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771222,
+        "osm_type": "way",
+        "ref": "H4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3609724,
+            25.2617655
+          ],
+          [
+            55.3616195,
+            25.2627418
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771992,
+        "osm_type": "way",
+        "ref": "E17",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3616442,
+            25.2613914
+          ],
+          [
+            55.3623169,
+            25.2623925
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771993,
+        "osm_type": "way",
+        "ref": "E18",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3623744,
+            25.2609848
+          ],
+          [
+            55.3630411,
+            25.2619583
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771994,
+        "osm_type": "way",
+        "ref": "E19",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3631249,
+            25.2605669
+          ],
+          [
+            55.3638216,
+            25.2616041
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771995,
+        "osm_type": "way",
+        "ref": "E20",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3637864,
+            25.2601844
+          ],
+          [
+            55.3637981,
+            25.2602013
+          ],
+          [
+            55.3644949,
+            25.2612232
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771996,
+        "osm_type": "way",
+        "ref": "E21",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3644224,
+            25.2598567
+          ],
+          [
+            55.3651171,
+            25.2608885
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771997,
+        "osm_type": "way",
+        "ref": "E22",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3650272,
+            25.2595224
+          ],
+          [
+            55.3657072,
+            25.2605174
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326771999,
+        "osm_type": "way",
+        "ref": "E23",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3656474,
+            25.2591796
+          ],
+          [
+            55.3662785,
+            25.2601172
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772000,
+        "osm_type": "way",
+        "ref": "E24",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3662609,
+            25.2588405
+          ],
+          [
+            55.3669303,
+            25.2598261
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772001,
+        "osm_type": "way",
+        "ref": "E25",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3668846,
+            25.2584957
+          ],
+          [
+            55.367552,
+            25.2594985
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772002,
+        "osm_type": "way",
+        "ref": "E26",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3674992,
+            25.258156
+          ],
+          [
+            55.3681561,
+            25.2591444
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772003,
+        "osm_type": "way",
+        "ref": "E27",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3681128,
+            25.2578169
+          ],
+          [
+            55.3687784,
+            25.2588048
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772004,
+        "osm_type": "way",
+        "ref": "E28",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3686788,
+            25.2575041
+          ],
+          [
+            55.3693257,
+            25.258447
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772005,
+        "osm_type": "way",
+        "ref": "E29",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3691447,
+            25.2572143
+          ],
+          [
+            55.3691643,
+            25.2572357
+          ],
+          [
+            55.3698432,
+            25.2581887
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772007,
+        "osm_type": "way",
+        "ref": "E30",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3696114,
+            25.2569886
+          ],
+          [
+            55.370149,
+            25.25782
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772008,
+        "osm_type": "way",
+        "ref": "E31",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3699556,
+            25.2567983
+          ],
+          [
+            55.3705647,
+            25.257769
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772009,
+        "osm_type": "way",
+        "ref": "E32",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3703018,
+            25.256607
+          ],
+          [
+            55.3709161,
+            25.257575
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772010,
+        "osm_type": "way",
+        "ref": "E33",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3706492,
+            25.256415
+          ],
+          [
+            55.3712728,
+            25.2574173
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772011,
+        "osm_type": "way",
+        "ref": "E34",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3710012,
+            25.2562204
+          ],
+          [
+            55.3716376,
+            25.2572038
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772012,
+        "osm_type": "way",
+        "ref": "E35",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3713389,
+            25.2560337
+          ],
+          [
+            55.3719755,
+            25.2570097
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772013,
+        "osm_type": "way",
+        "ref": "E36",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3716893,
+            25.25584
+          ],
+          [
+            55.3723645,
+            25.2568642
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772014,
+        "osm_type": "way",
+        "ref": "E37",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3720265,
+            25.2556537
+          ],
+          [
+            55.3726917,
+            25.2566774
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 326772015,
+        "osm_type": "way",
+        "ref": "E38",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3810124,
+            25.2506556
+          ],
+          [
+            55.3809105,
+            25.2507513
+          ],
+          [
+            55.3808435,
+            25.2508629
+          ],
+          [
+            55.3808184,
+            25.2509599
+          ],
+          [
+            55.3808184,
+            25.2510715
+          ],
+          [
+            55.380873,
+            25.2512268
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 447931799,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3800434,
+            25.2511955
+          ],
+          [
+            55.3799557,
+            25.2512996
+          ],
+          [
+            55.3799065,
+            25.251399
+          ],
+          [
+            55.3798886,
+            25.251513
+          ],
+          [
+            55.3798957,
+            25.2516319
+          ],
+          [
+            55.3799342,
+            25.2517289
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 447931800,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3908759,
+            25.2348608
+          ],
+          [
+            55.3907472,
+            25.2347694
+          ],
+          [
+            55.3905349,
+            25.2347112
+          ],
+          [
+            55.3904262,
+            25.234701
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507829992,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3819546,
+            25.2501309
+          ],
+          [
+            55.3817796,
+            25.2502661
+          ],
+          [
+            55.3817233,
+            25.2503631
+          ],
+          [
+            55.3816955,
+            25.2504917
+          ],
+          [
+            55.3817036,
+            25.2506106
+          ],
+          [
+            55.3817421,
+            25.2507149
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830063,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3485556,
+            25.2588622
+          ],
+          [
+            55.3483471,
+            25.2585599
+          ],
+          [
+            55.3482601,
+            25.2584338
+          ],
+          [
+            55.3480431,
+            25.2581191
+          ],
+          [
+            55.3477637,
+            25.2577142
+          ],
+          [
+            55.3474286,
+            25.2572282
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830074,
+        "osm_type": "way",
+        "ref": "C60",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3479175,
+            25.2592111
+          ],
+          [
+            55.3474554,
+            25.2584777
+          ],
+          [
+            55.3474358,
+            25.2584559
+          ],
+          [
+            55.3471558,
+            25.2580512
+          ],
+          [
+            55.3468117,
+            25.2575533
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830075,
+        "osm_type": "way",
+        "ref": "C59",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.347327,
+            25.2595491
+          ],
+          [
+            55.3472601,
+            25.2594454
+          ],
+          [
+            55.3469007,
+            25.2589257
+          ],
+          [
+            55.3468168,
+            25.2587995
+          ],
+          [
+            55.3465371,
+            25.2583942
+          ],
+          [
+            55.3461814,
+            25.2578784
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830076,
+        "osm_type": "way",
+        "ref": "C58",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3467121,
+            25.2599009
+          ],
+          [
+            55.3462071,
+            25.2591379
+          ],
+          [
+            55.3459239,
+            25.2587341
+          ],
+          [
+            55.3455645,
+            25.2582204
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830077,
+        "osm_type": "way",
+        "ref": "C57",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3460928,
+            25.2602366
+          ],
+          [
+            55.3460725,
+            25.2602094
+          ],
+          [
+            55.3456052,
+            25.2595128
+          ],
+          [
+            55.3455841,
+            25.2594836
+          ],
+          [
+            55.345306,
+            25.2590766
+          ],
+          [
+            55.3449449,
+            25.2585479
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830078,
+        "osm_type": "way",
+        "ref": "C56",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3455,
+            25.2605641
+          ],
+          [
+            55.3449769,
+            25.2598206
+          ],
+          [
+            55.344704,
+            25.2594102
+          ],
+          [
+            55.3444111,
+            25.25897
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830079,
+        "osm_type": "way",
+        "ref": "C55L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3453196,
+            25.2606672
+          ],
+          [
+            55.344812,
+            25.2599121
+          ],
+          [
+            55.3445357,
+            25.2595035
+          ],
+          [
+            55.3441241,
+            25.2588948
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830080,
+        "osm_type": "way",
+        "ref": "C55",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3451608,
+            25.260758
+          ],
+          [
+            55.3446492,
+            25.2600024
+          ],
+          [
+            55.3443727,
+            25.2595939
+          ],
+          [
+            55.3439042,
+            25.258902
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830081,
+        "osm_type": "way",
+        "ref": "C55R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3447212,
+            25.2610031
+          ],
+          [
+            55.344706,
+            25.2609805
+          ],
+          [
+            55.3442275,
+            25.2602662
+          ],
+          [
+            55.3442131,
+            25.2602446
+          ],
+          [
+            55.3439385,
+            25.2598346
+          ],
+          [
+            55.343585,
+            25.2593071
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830082,
+        "osm_type": "way",
+        "ref": "C54L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3445334,
+            25.2611061
+          ],
+          [
+            55.3444731,
+            25.2610306
+          ],
+          [
+            55.3440798,
+            25.2604258
+          ],
+          [
+            55.3440184,
+            25.2603525
+          ],
+          [
+            55.3437471,
+            25.2599407
+          ],
+          [
+            55.3433588,
+            25.2593519
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830083,
+        "osm_type": "way",
+        "ref": "C54",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3443691,
+            25.2611963
+          ],
+          [
+            55.3442692,
+            25.2610348
+          ],
+          [
+            55.3439763,
+            25.2605975
+          ],
+          [
+            55.3438604,
+            25.2604402
+          ],
+          [
+            55.3435879,
+            25.2600289
+          ],
+          [
+            55.3431478,
+            25.2593654
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830084,
+        "osm_type": "way",
+        "ref": "C54R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3439351,
+            25.2614301
+          ],
+          [
+            55.3436936,
+            25.2610664
+          ],
+          [
+            55.3436816,
+            25.261047
+          ],
+          [
+            55.3434204,
+            25.2606844
+          ],
+          [
+            55.3431512,
+            25.260271
+          ],
+          [
+            55.3428248,
+            25.2597709
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830085,
+        "osm_type": "way",
+        "ref": "C53L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3437502,
+            25.2615297
+          ],
+          [
+            55.3435741,
+            25.2612648
+          ],
+          [
+            55.3434161,
+            25.2610525
+          ],
+          [
+            55.3432389,
+            25.2607851
+          ],
+          [
+            55.3429623,
+            25.2603757
+          ],
+          [
+            55.3425926,
+            25.2598287
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830087,
+        "osm_type": "way",
+        "ref": "C53",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.343596,
+            25.2616169
+          ],
+          [
+            55.3434716,
+            25.2614348
+          ],
+          [
+            55.3432044,
+            25.2610569
+          ],
+          [
+            55.3430887,
+            25.2608685
+          ],
+          [
+            55.3428092,
+            25.2604606
+          ],
+          [
+            55.3423382,
+            25.2597728
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830088,
+        "osm_type": "way",
+        "ref": "C53R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3430489,
+            25.2619213
+          ],
+          [
+            55.3425494,
+            25.2611678
+          ],
+          [
+            55.3422756,
+            25.2607563
+          ],
+          [
+            55.3418711,
+            25.2601489
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830090,
+        "osm_type": "way",
+        "ref": "C52",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3415619,
+            25.2626621
+          ],
+          [
+            55.3414158,
+            25.2617969
+          ],
+          [
+            55.3413503,
+            25.2612693
+          ],
+          [
+            55.3412059,
+            25.2605758
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830091,
+        "osm_type": "way",
+        "ref": "C51",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3405967,
+            25.2616069
+          ],
+          [
+            55.340886,
+            25.2611872
+          ],
+          [
+            55.341129,
+            25.260742
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830093,
+        "osm_type": "way",
+        "ref": "C51R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3400067,
+            25.2606698
+          ],
+          [
+            55.3403973,
+            25.2604539
+          ],
+          [
+            55.3411147,
+            25.2600567
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830094,
+        "osm_type": "way",
+        "ref": "C50",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3393424,
+            25.259659
+          ],
+          [
+            55.339723,
+            25.259442
+          ],
+          [
+            55.3397568,
+            25.2594193
+          ],
+          [
+            55.3402108,
+            25.2591567
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830095,
+        "osm_type": "way",
+        "ref": "C48",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3396463,
+            25.2601161
+          ],
+          [
+            55.3400285,
+            25.2599005
+          ],
+          [
+            55.3406346,
+            25.259557
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830096,
+        "osm_type": "way",
+        "ref": "C49",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3892529,
+            25.2370309
+          ],
+          [
+            55.3888634,
+            25.2364419
+          ],
+          [
+            55.3884771,
+            25.2358576
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830101,
+        "osm_type": "way",
+        "ref": "G22",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.373925,
+            25.2454469
+          ],
+          [
+            55.3734703,
+            25.2447485
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830107,
+        "osm_type": "way",
+        "ref": "A6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3431664,
+            25.2618559
+          ],
+          [
+            55.3434955,
+            25.2623642
+          ],
+          [
+            55.3439097,
+            25.2630038
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830123,
+        "osm_type": "way",
+        "ref": "C37",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3402395,
+            25.2610395
+          ],
+          [
+            55.339857,
+            25.2612556
+          ],
+          [
+            55.3392372,
+            25.2616043
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830124,
+        "osm_type": "way",
+        "ref": "C46",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3422349,
+            25.2623636
+          ],
+          [
+            55.3415936,
+            25.2611344
+          ],
+          [
+            55.3413507,
+            25.2606728
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830125,
+        "osm_type": "way",
+        "ref": "C51L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3495539,
+            25.2572804
+          ],
+          [
+            55.3487559,
+            25.257154
+          ],
+          [
+            55.3478014,
+            25.2570027
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830129,
+        "osm_type": "way",
+        "ref": "C61",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3489694,
+            25.2559593
+          ],
+          [
+            55.3484737,
+            25.2562332
+          ],
+          [
+            55.3478229,
+            25.2565927
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830130,
+        "osm_type": "way",
+        "ref": "C62",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3485992,
+            25.2554048
+          ],
+          [
+            55.3481126,
+            25.2556724
+          ],
+          [
+            55.3474715,
+            25.256025
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830131,
+        "osm_type": "way",
+        "ref": "C63",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.348227,
+            25.254816
+          ],
+          [
+            55.3477544,
+            25.2550794
+          ],
+          [
+            55.3471282,
+            25.2554283
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507830132,
+        "osm_type": "way",
+        "ref": "C64",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3952916,
+            25.2324294
+          ],
+          [
+            55.3951371,
+            25.2318712
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831559,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3946523,
+            25.232786
+          ],
+          [
+            55.3944021,
+            25.2320702
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831560,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.393975,
+            25.2331544
+          ],
+          [
+            55.3937946,
+            25.2327336
+          ],
+          [
+            55.3936243,
+            25.2323201
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831561,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3923243,
+            25.2340633
+          ],
+          [
+            55.391728,
+            25.2331668
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831562,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3916811,
+            25.2344175
+          ],
+          [
+            55.3910172,
+            25.2335405
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831563,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.391108,
+            25.2347271
+          ],
+          [
+            55.3904526,
+            25.2339784
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831564,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4004435,
+            25.2371598
+          ],
+          [
+            55.4014404,
+            25.2365785
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831565,
+        "osm_type": "way",
+        "ref": "S7",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4008846,
+            25.2378215
+          ],
+          [
+            55.401864,
+            25.2372526
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831566,
+        "osm_type": "way",
+        "ref": "S6",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4013065,
+            25.2385223
+          ],
+          [
+            55.4023388,
+            25.2379392
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831567,
+        "osm_type": "way",
+        "ref": "S5",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.401401,
+            25.2386651
+          ],
+          [
+            55.4004022,
+            25.2392081
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831568,
+        "osm_type": "way",
+        "ref": "S4",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4009651,
+            25.2379508
+          ],
+          [
+            55.3998899,
+            25.2385239
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831569,
+        "osm_type": "way",
+        "ref": "S3",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3983072,
+            25.2382884
+          ],
+          [
+            55.3989136,
+            25.2391644
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831570,
+        "osm_type": "way",
+        "ref": "S1",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3989356,
+            25.2379427
+          ],
+          [
+            55.3995225,
+            25.2388102
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831571,
+        "osm_type": "way",
+        "ref": "S2",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.399021,
+            25.2378957
+          ],
+          [
+            55.3983772,
+            25.2369688
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831572,
+        "osm_type": "way",
+        "ref": "S8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3984139,
+            25.2382297
+          ],
+          [
+            55.3977589,
+            25.2372902
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831573,
+        "osm_type": "way",
+        "ref": "S9",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3976137,
+            25.23867
+          ],
+          [
+            55.3970307,
+            25.2377645
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831574,
+        "osm_type": "way",
+        "ref": "S10",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3970222,
+            25.2389955
+          ],
+          [
+            55.3964031,
+            25.2380994
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831575,
+        "osm_type": "way",
+        "ref": "S11",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3964009,
+            25.2393374
+          ],
+          [
+            55.3958184,
+            25.2384681
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831576,
+        "osm_type": "way",
+        "ref": "S12",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3957831,
+            25.2396773
+          ],
+          [
+            55.3951773,
+            25.2387908
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831577,
+        "osm_type": "way",
+        "ref": "S13",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3951621,
+            25.240019
+          ],
+          [
+            55.3945363,
+            25.2390892
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 507831578,
+        "osm_type": "way",
+        "ref": "S14",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3789324,
+            25.2530983
+          ],
+          [
+            55.3785338,
+            25.2525125
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147956,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3780099,
+            25.2523287
+          ],
+          [
+            55.378131,
+            25.2523284
+          ],
+          [
+            55.3782722,
+            25.252351
+          ],
+          [
+            55.3783802,
+            25.2523848
+          ],
+          [
+            55.3784549,
+            25.2524411
+          ],
+          [
+            55.3785338,
+            25.2525125
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147957,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3785338,
+            25.2525125
+          ],
+          [
+            55.3784921,
+            25.2524097
+          ],
+          [
+            55.3784879,
+            25.2523077
+          ],
+          [
+            55.3785171,
+            25.2521642
+          ],
+          [
+            55.3785589,
+            25.252066
+          ],
+          [
+            55.3786067,
+            25.2519962
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147958,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3776692,
+            25.2547512
+          ],
+          [
+            55.3776556,
+            25.2548541
+          ],
+          [
+            55.3776038,
+            25.2549352
+          ],
+          [
+            55.3775244,
+            25.2550039
+          ],
+          [
+            55.3774106,
+            25.2550507
+          ],
+          [
+            55.3773002,
+            25.2550507
+          ],
+          [
+            55.3772174,
+            25.2550476
+          ],
+          [
+            55.3771621,
+            25.2550632
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147960,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3771621,
+            25.2550632
+          ],
+          [
+            55.3773795,
+            25.2549446
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147961,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3776679,
+            25.2558249
+          ],
+          [
+            55.3778853,
+            25.2557063
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147962,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3781836,
+            25.2555168
+          ],
+          [
+            55.3781613,
+            25.2556158
+          ],
+          [
+            55.3781096,
+            25.2556969
+          ],
+          [
+            55.3780302,
+            25.2557656
+          ],
+          [
+            55.3779163,
+            25.2558124
+          ],
+          [
+            55.3778059,
+            25.2558124
+          ],
+          [
+            55.3777231,
+            25.2558093
+          ],
+          [
+            55.3776679,
+            25.2558249
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147963,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3781871,
+            25.2565872
+          ],
+          [
+            55.3784132,
+            25.2564633
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147964,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3786946,
+            25.2562776
+          ],
+          [
+            55.3786951,
+            25.2563847
+          ],
+          [
+            55.3786433,
+            25.2564658
+          ],
+          [
+            55.378564,
+            25.2565345
+          ],
+          [
+            55.3784501,
+            25.2565813
+          ],
+          [
+            55.3783397,
+            25.2565813
+          ],
+          [
+            55.3782569,
+            25.2565781
+          ],
+          [
+            55.3781871,
+            25.2565872
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147965,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3786946,
+            25.2573541
+          ],
+          [
+            55.378912,
+            25.2572355
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147966,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3792062,
+            25.2570391
+          ],
+          [
+            55.379188,
+            25.257145
+          ],
+          [
+            55.3791362,
+            25.2572261
+          ],
+          [
+            55.3790569,
+            25.2572948
+          ],
+          [
+            55.378943,
+            25.2573416
+          ],
+          [
+            55.3788326,
+            25.2573416
+          ],
+          [
+            55.3787498,
+            25.2573385
+          ],
+          [
+            55.3786946,
+            25.2573541
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147967,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3792062,
+            25.2570391
+          ],
+          [
+            55.379337,
+            25.2570459
+          ],
+          [
+            55.3794508,
+            25.2570272
+          ],
+          [
+            55.3795645,
+            25.256971
+          ],
+          [
+            55.3796473,
+            25.2568588
+          ],
+          [
+            55.3797093,
+            25.2567497
+          ],
+          [
+            55.3797892,
+            25.2566926
+          ],
+          [
+            55.3806169,
+            25.2562305
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147968,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3781871,
+            25.2565872
+          ],
+          [
+            55.3775146,
+            25.2569736
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147969,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3786946,
+            25.2573541
+          ],
+          [
+            55.3780822,
+            25.2577383
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147970,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3776679,
+            25.2558249
+          ],
+          [
+            55.3770253,
+            25.2562053
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147971,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3771621,
+            25.2550632
+          ],
+          [
+            55.3764812,
+            25.2554406
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147972,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3786106,
+            25.2561525
+          ],
+          [
+            55.3787154,
+            25.2561988
+          ],
+          [
+            55.3788325,
+            25.2561942
+          ],
+          [
+            55.3789801,
+            25.2561297
+          ],
+          [
+            55.3790564,
+            25.2560285
+          ],
+          [
+            55.3791328,
+            25.2559088
+          ],
+          [
+            55.3792228,
+            25.2558432
+          ],
+          [
+            55.3801151,
+            25.2553011
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147973,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.377733,
+            25.252483
+          ],
+          [
+            55.3777568,
+            25.2526131
+          ],
+          [
+            55.3778143,
+            25.2527139
+          ],
+          [
+            55.3779114,
+            25.2527919
+          ],
+          [
+            55.3780228,
+            25.2528342
+          ],
+          [
+            55.3781324,
+            25.2528489
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147974,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3781324,
+            25.2528489
+          ],
+          [
+            55.3781594,
+            25.2527497
+          ],
+          [
+            55.3781594,
+            25.2526554
+          ],
+          [
+            55.3781235,
+            25.252535
+          ],
+          [
+            55.3780659,
+            25.2524603
+          ],
+          [
+            55.3780048,
+            25.2524017
+          ],
+          [
+            55.3779387,
+            25.2523684
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147975,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3786704,
+            25.2519607
+          ],
+          [
+            55.3786793,
+            25.2521011
+          ],
+          [
+            55.3787368,
+            25.2522019
+          ],
+          [
+            55.3788339,
+            25.2522799
+          ],
+          [
+            55.3789454,
+            25.2523222
+          ],
+          [
+            55.3790532,
+            25.2523309
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147976,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3790532,
+            25.2523309
+          ],
+          [
+            55.379082,
+            25.2522376
+          ],
+          [
+            55.379082,
+            25.2521433
+          ],
+          [
+            55.379046,
+            25.252023
+          ],
+          [
+            55.3789885,
+            25.2519482
+          ],
+          [
+            55.3789274,
+            25.2518897
+          ],
+          [
+            55.3788435,
+            25.2518642
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147977,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3829823,
+            25.2357693
+          ],
+          [
+            55.3825967,
+            25.2359906
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 613147987,
+        "osm_type": "way",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3946517,
+            25.2402998
+          ],
+          [
+            55.3940701,
+            25.2394133
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 766890749,
+        "osm_type": "way",
+        "ref": "S15",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3538755,
+            25.2499449
+          ],
+          [
+            55.3542897,
+            25.2505546
+          ],
+          [
+            55.3545299,
+            25.2509166
+          ],
+          [
+            55.3549254,
+            25.2515129
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 766894885,
+        "osm_type": "way",
+        "ref": "B9",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3546962,
+            25.2494935
+          ],
+          [
+            55.3551172,
+            25.2500972
+          ],
+          [
+            55.3553566,
+            25.2504575
+          ],
+          [
+            55.3557595,
+            25.251047
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 766894886,
+        "osm_type": "way",
+        "ref": "B10",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3656957,
+            25.2437027
+          ],
+          [
+            55.3656417,
+            25.2448954
+          ],
+          [
+            55.3656001,
+            25.2455341
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059547929,
+        "osm_type": "way",
+        "ref": "B26R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3442978,
+            25.2630866
+          ],
+          [
+            55.3447024,
+            25.2636782
+          ],
+          [
+            55.3450305,
+            25.2641576
+          ],
+          [
+            55.3453943,
+            25.2639483
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059547930,
+        "osm_type": "way",
+        "ref": "C28",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.339526,
+            25.2646115
+          ],
+          [
+            55.3397687,
+            25.2649958
+          ],
+          [
+            55.3401773,
+            25.2656113
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059547941,
+        "osm_type": "way",
+        "ref": "C31",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3595274,
+            25.2466729
+          ],
+          [
+            55.3600143,
+            25.2477617
+          ],
+          [
+            55.3602517,
+            25.2482925
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059552606,
+        "osm_type": "way",
+        "ref": "B18R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3613585,
+            25.2456585
+          ],
+          [
+            55.3620197,
+            25.2466431
+          ],
+          [
+            55.3624046,
+            25.2472233
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059566032,
+        "osm_type": "way",
+        "ref": "B21L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.351729,
+            25.2512311
+          ],
+          [
+            55.3527034,
+            25.2527285
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059566033,
+        "osm_type": "way",
+        "ref": "B5",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3591213,
+            25.2627961
+          ],
+          [
+            55.3597917,
+            25.2637868
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571433,
+        "osm_type": "way",
+        "ref": "E14",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.359748,
+            25.2624472
+          ],
+          [
+            55.3603885,
+            25.263423
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571434,
+        "osm_type": "way",
+        "ref": "E15",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3603573,
+            25.262108
+          ],
+          [
+            55.3607877,
+            25.2627463
+          ],
+          [
+            55.3610658,
+            25.2631586
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571435,
+        "osm_type": "way",
+        "ref": "E16",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3556174,
+            25.2659357
+          ],
+          [
+            55.3553364,
+            25.265506
+          ],
+          [
+            55.3550457,
+            25.2650629
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571436,
+        "osm_type": "way",
+        "ref": "E8",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3560058,
+            25.2657241
+          ],
+          [
+            55.3557222,
+            25.2652922
+          ],
+          [
+            55.3554313,
+            25.2648507
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571437,
+        "osm_type": "way",
+        "ref": "E9L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3563932,
+            25.2655243
+          ],
+          [
+            55.3561015,
+            25.2650821
+          ],
+          [
+            55.3558092,
+            25.2646403
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571438,
+        "osm_type": "way",
+        "ref": "E9R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3567352,
+            25.2652847
+          ],
+          [
+            55.3564771,
+            25.2648739
+          ],
+          [
+            55.3561936,
+            25.2644264
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571439,
+        "osm_type": "way",
+        "ref": "E10L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3571421,
+            25.2650903
+          ],
+          [
+            55.3568548,
+            25.2646647
+          ],
+          [
+            55.3565616,
+            25.2642215
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571440,
+        "osm_type": "way",
+        "ref": "E10R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3590641,
+            25.2640577
+          ],
+          [
+            55.3587669,
+            25.2636053
+          ],
+          [
+            55.3584717,
+            25.2631579
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571441,
+        "osm_type": "way",
+        "ref": "E13",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3586839,
+            25.2642372
+          ],
+          [
+            55.3584015,
+            25.2638077
+          ],
+          [
+            55.3581068,
+            25.2633611
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571442,
+        "osm_type": "way",
+        "ref": "E12R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3582945,
+            25.264474
+          ],
+          [
+            55.3580038,
+            25.264028
+          ],
+          [
+            55.3577115,
+            25.2635812
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571443,
+        "osm_type": "way",
+        "ref": "E12L",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3579115,
+            25.2646624
+          ],
+          [
+            55.3576278,
+            25.2642364
+          ],
+          [
+            55.3573356,
+            25.2637905
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571444,
+        "osm_type": "way",
+        "ref": "E11R",
+        "aeroway": "parking_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3575306,
+            25.2648861
+          ],
+          [
+            55.3572263,
+            25.2644589
+          ],
+          [
+            55.3569201,
+            25.2640218
+          ]
+        ]
+      },
+      "properties": {
+        "category": "parking_stand",
+        "osm_id": 1059571445,
+        "osm_type": "way",
+        "ref": "E11L",
+        "aeroway": "parking_position"
+      }
+    }
+  ]
+}
